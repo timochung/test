@@ -1,0 +1,10 @@
+这是数学文件夹，包含与数学相关的内容
+1. 线性代数
+2. 微积分
+3. 离散数学
+
+![](./translated_images/Math.14cf41957018abd612ffb3b0861b133017018e3d062fb5e5b1b7defba502c0ce.zh.jpg)
+![](./translated_images/venn.7a7b6da4bbd2cfea091635b362b712bd1325d3a231d0b9594f35703e86224ab0.zh.png)
+
+
+免责声明：该翻译是由AI模型翻译的，可能不完美。请查看输出并进行必要的更正。
